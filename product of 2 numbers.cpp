@@ -8,4 +8,5 @@ int main()
 	//To print Product of two numbers;
 	int product = x*y;
 	cout<<"The product is : "<<product<<endl;
+	return 0;
 }
